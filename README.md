@@ -1,0 +1,1 @@
+One of my first projects written in Python Django framework. This had the purpose to make me learn how to use urls, the function for the route and to inject information from the back-end in the front-end.
